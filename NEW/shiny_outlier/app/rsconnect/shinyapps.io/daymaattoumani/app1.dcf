@@ -1,0 +1,12 @@
+name: app1
+title: app1
+username:
+account: daymaattoumani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2375444
+bundleId: 3203531
+url: https://daymaattoumani.shinyapps.io/app1/
+when: 1590734118.36471
+asMultiple: FALSE
+asStatic: FALSE
